@@ -1,0 +1,11 @@
+{
+	"code": 200,
+	"msg": "success",
+	"data": [
+		{
+			"videoUrl": "https://ks-xpc4.xpccdn.com/c03b5702-56ca-442e-9f06-695fd1d234e6.mp4",
+			"thumbUrl": "https://oss-xpc0.xpccdn.com/uploadfile/article/2020/10/24/5f93890f49752.jpeg",
+			"starNum": 1000
+		},
+	]
+}
