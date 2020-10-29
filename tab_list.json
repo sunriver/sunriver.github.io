@@ -3,8 +3,8 @@
 	"msg": "success",
 	"data": [
 		{
-			"tabName": "Yesterday",
-			"tabContent":"tab_yesterday.json"
+			"tabName":  "Yesterday",
+			"tabContent": "tab_yesterday.json"
 		},
 		{
 			"tabName": "Today",
